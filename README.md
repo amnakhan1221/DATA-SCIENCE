@@ -28,10 +28,10 @@ Tech Stack:
 4. Scikit-learn
 5. Joblib
 
-Future Work
+Future Work:
 1. Experiment with other ML models (Decision Tree, Random Forest, SVM)
 2. Deploy as an interactive web app using Streamlit or Flask
 3. Host on platforms like Heroku or Hugging Face Spaces
 
-Author
+Author:
 Developed by AMNA KHAN
